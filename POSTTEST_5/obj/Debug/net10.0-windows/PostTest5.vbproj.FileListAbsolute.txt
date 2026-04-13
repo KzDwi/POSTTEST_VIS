@@ -1,0 +1,10 @@
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.Form1.resources
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.Form2.resources
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.Form3.resources
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.Resources.resources
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.vbproj.GenerateResource.cache
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.AssemblyInfoInputs.cache
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.AssemblyInfo.vb
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.vbproj.CoreCompileInputs.cache
+C:\Users\acer\Documents\GitHub\PemVis\PostTest5\obj\Debug\net10.0-windows\PostTest5.sourcelink.json
